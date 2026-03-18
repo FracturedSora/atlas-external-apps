@@ -20,7 +20,8 @@ External Apps are maintained by the source NOT by the creator of them as they ha
 ```json
 {
   "name": "AnimeKai",
-  "url": "https://animekai.to/home"
+  "url": "https://animekai.to/home",
+  "contentType": "sfw"
 }
 ```
 
