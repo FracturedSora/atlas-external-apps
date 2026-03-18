@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "id": "animekai",
+      "name": "AnimeKai",
+      "author": "FracturedSora",
+      "category": "anime",
+      "contentType": "sfw",
+      "downloadUrl": "https://raw.githubusercontent.com/FracturedSora/atlas-external-apps/refs/heads/main/AnimeKai.zip",
+      "version": "v1.0.0",
+      "description": "Has quite a bit anime library for Dub & Sub, its not that known but it has quite a big library."
+    },
+    {
+      "id": "comix",
+      "name": "Comix",
+      "author": "FracturedSora",
+      "category": "manga",
+      "contentType": "sfw",
+      "downloadUrl": "https://raw.githubusercontent.com/FracturedSora/atlas-external-apps/refs/heads/main/Comix.zip",
+      "version": "v1.0.0",
+      "description": "Has a decent library, was released after ComicK shut down."
+    }
+  ]
+}
